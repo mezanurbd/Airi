@@ -1,0 +1,19 @@
+.d-flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.btn{
+    font-size: 18px;
+    padding: 15px 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: #F2F2F2;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
